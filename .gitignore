@@ -1,3 +1,10 @@
 data
 links of file project
 test
+processed_data
+# Trained models
+*.joblib
+*.pkl
+
+# Processed datasets
+*.npy
